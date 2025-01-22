@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        body{
+            font-family:Arial,san-serif;
+            background-color:rgb(124, 28, 133);
+            margin:0;
+            padding:0;
+            text-align:centre;
+            height:25px;
+            font-style:italic;
+
+        }
+        .activities{
+            color: rgb(227, 227, 18);
+            background-color:rgb(128, 44, 128);
+            width: 100%;
+            max-width: 600px;
+            border-radius: 15px;
+            overflow: hidden;
+            font-weight:bold;
+        }
+        .header{
+            background-color:rgb(124, 45, 128);
+            color: rgb(227, 227, 18);
+            padding: 20px;
+            text-align: center;
+        }
+         .header h1 {
+            margin: 0;
+            font-size: 2em;
+         }
+         .date{
+            background-color:rgb(128, 44, 128);
+            color: rgb(206, 219, 17);
+            padding: 20px;
+            text-align:center;
+           
+            
+            
+         }
+         .details{
+            padding:20px;
+            color: rgb(227, 227, 18);
+            
+        }
+        .details p {
+            margin: 10px 0;
+            font-size: 1em;
+        }
+        .rvsp{
+            text-align:center;
+            margin:5px;
+        }
+            
+        </style>
+    </head>
+    <body>
+        <div class="header">
+        <h1>You're invited to our Party!!.</h1>
+        </div>
+        <div>
+        <h2 class="header">&#127881;It is Emmanuel's 16th Birthday&#127881;</h2>
+        </div>
+        <div>
+        <p class="date"><strong>Date: 8th October 2025</strong></p>
+        </div>
+        
+        <div class="activities">
+        <p><strong>Expect plenty of:</strong></p>
+        
+        <li>Drinks</li> 
+        <li>Food </li>
+        <li>Games </li>
+        <li>Music </li>
+        </div>
+        
+        
+        <div class="details">
+        <p><strong>Location:79A Nessi Street, Manchester.</strong></p>
+         <p><strong>Party Starts at midday till 6pm.</strong></p>
+       
+        <p><strong>COME PARTY AND CELEBRATE WITH US.</strong></p>
+        </div>
+        <div class="rvsp">
+        <button onclick="alert('Thanks for RSVPing!')">RSVP Now</button>
+        </div>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Champagne_-_2.png" height="70" width="112"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/GermanChocolateCake.jpg" height="70" width="110"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Champagne_-_2.png" height="70" width="112"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/GermanChocolateCake.jpg" height="70" width="110"> 
+        
+    </body>
+</html>
