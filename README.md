@@ -1,2 +1,1 @@
-# Event-Invite
-Event Invitation Project
+# Nesta's Event Invitation project.
