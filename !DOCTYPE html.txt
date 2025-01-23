@@ -88,7 +88,7 @@
         <div class="rvsp">
         <button onclick="alert('Thanks for RSVPing!')">RSVP Now</button>
         </div>
-         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Champagne_-_2.png" height="70" width="112"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/GermanChocolateCake.jpg" height="70" width="110"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Champagne_-_2.png" height="70" width="112"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/GermanChocolateCake.jpg" height="70" width="110"> 
+         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Champagne_-_2.png" alt="champagne" height="70" width="112"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/GermanChocolateCake.jpg" alt="cake" height="70" width="110"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Champagne_-_2.png" alt= "champagne" height="70" width="112"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/GermanChocolateCake.jpg" alt="cake" height="70" width="110"> 
         
     </body>
 </html>
